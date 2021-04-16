@@ -161,7 +161,7 @@
   {
     firstName: "New",
     lastName: "Speaker",
-    email: "speaker@email.com"
+    topic: "A New TED Topic"
   }
   ```
 
@@ -186,7 +186,7 @@
         id: "{any-id-of-your-choice}",
         firstName: "New",
         lastName: "Speaker",
-        email: "speaker@email.com"
+        topic: "A New TED Topic"
       }
     ]
   }
