@@ -3,4 +3,19 @@
 ### Table of Contents
 - [Assignment Detail](assignment.md)
 - How to start application
-- etc..
+
+#### Install dependencies
+
+```
+npm install
+```
+#### Build application
+
+```
+npm run build
+```
+#### Run application
+
+```
+npm start
+```
